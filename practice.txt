@@ -1,1 +1,3 @@
 This is practice repository
+We are currently in branch_B
+and we are cherry picking the 2nd commit of branch_A into branch_B
